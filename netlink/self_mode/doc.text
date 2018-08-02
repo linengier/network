@@ -1,0 +1,5 @@
+Linux/include/net/netlink.h
+
+ovstest.c
+OVS定义的netlink函数：封装nlmsghdr的头部：
+nl_msg_put_nlmsghdr
